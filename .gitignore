@@ -1,0 +1,21 @@
+# 工具/IDE 状态
+.omc/
+.ruff_cache/
+.specstory/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时
+*.log
+*.tmp
+*.bak
